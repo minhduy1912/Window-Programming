@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe.config
+C:\Users\Lenovo\source\repos\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe
+C:\Users\Lenovo\source\repos\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.pdb
+C:\Users\Lenovo\source\repos\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.Form1.resources
+C:\Users\Lenovo\source\repos\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.exe
+C:\Users\Lenovo\source\repos\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.pdb
